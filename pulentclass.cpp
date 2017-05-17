@@ -7,3 +7,7 @@ PulentClass::PulentClass(int value){
 int PulentClass::getValue(){
     return a;
 }
+
+int PulentClass::addOne(){
+    return a+1;
+}
