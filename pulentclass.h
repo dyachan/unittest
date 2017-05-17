@@ -7,6 +7,8 @@ private:
 
 public:
   PulentClass(int value);
+
+  int getValue();
 };
 
 #endif PULENTCLASS_H
