@@ -18,6 +18,15 @@ public:
    * @return value +1
    */
   int addOne();
+
+  /** increment value of instance in two.
+   *
+   * It isn't necessary to be carrefull in this method if we was
+   * be carrefull in addOne method.
+   *
+   * @return value +2
+   */
+  int addTwo();
 };
 
 #endif PULENTCLASS_H

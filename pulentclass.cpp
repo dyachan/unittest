@@ -11,3 +11,7 @@ int PulentClass::getValue(){
 int PulentClass::addOne(){
     return a+1;
 }
+
+int PulentClass::addTwo(){
+    return a+2;
+}
